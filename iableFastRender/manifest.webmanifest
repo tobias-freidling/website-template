@@ -1,0 +1,18 @@
+{
+  "name": "Tobias Freidling",
+  "short_name": "Tobias Freidling",
+  "lang": "en-uk",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
+  "icons": [{
+    "src": "/images/icon_hu6351ee64df48d2892d6749f985b342fb_222017_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu6351ee64df48d2892d6749f985b342fb_222017_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
