@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qingyuan Zhao
+title: Tobias Freidling
 
 # Username (this should match the folder name)
 authors:
@@ -10,24 +10,39 @@ authors:
 superuser: true
 
 # Role/position
-role: University Lecturer in Statistics
+role: PhD student in Mathematics of Information
 
 # Organizations/Affiliations
 organizations:
 - name: University of Cambridge
-  url: "http://www.statslab.cam.ac.uk/~qz280/"
+  url: "https://www.dpmms.cam.ac.uk/"
+- name: Cantab Capital Institute for the Mathematics of Information
+  url: "https://www.ccimi.maths.cam.ac.uk"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in statistics.
+bio: I am a PhD student at the University of Cambridge and do research on Causal Inference.
 
 interests:
-- Statistics
+- Causal Inference
+- Sensitivity Analysis
+- Selective Inference
+- Applied Statistics
 
 education:
   courses:
-  - course: PhD in Statistics
-    institution: University A
-    year: 2021
+  - course: B.Sc. Mathematics
+    institution: Ludwig Maximilian University, Munich
+    year: 2017
+  - course: Visiting Student
+    institution: University of Oxford
+    year: 2018
+  - course: M.Sc. Mathematics
+    institution: Technical University of Munich
+    year: 2020
+  - course: Exchange Research Student
+    institution: Kyoto University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,31 +51,35 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:qyzhao@statslab.cam.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:taf40@cam.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=NTpfnyoAAAAJ
+  link: https://scholar.google.com/citations?user=ek2xg6wAAAAJ
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/qingyuanzhao
-- icon: instagram
+  link: https://github.com/tobias-freidling
+
+- icon: linkedin
   icon_pack: fab
-  link: https://www.instagram.com/qingyuan_zzz/
+  link: https://linkedin.com/in/tobias-freidling
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "qyzhao@statslab.cam.ac.uk"
+email: "taf40@cam.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigators
 ---
+I am a PhD student at the University of Cambridge supervised by [Qingyuan Zhao](http://statslab.cam.ac.uk/~qz280/).
+My current research focuses on causal inference and sensitivity analysis.
 
-I am a statistician.
-
-Click [here](https://translate.google.co.uk/?sl=auto&tl=en&text=%E8%B5%B5%E5%8D%BF%E5%85%83&op=translate) for my name in Chinese and how to pronounce it.
+Beyond this, I undertook projects in selective inference, optimal transport, Bayesian optimal experimental design and in the implementation of RNNs with Tensorflow.  I am also a consultant at Cambridge's [Statistics Clinic](https://www.statslab.cam.ac.uk/clinic/).
